@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-code_tomorrow_scheme",
   "description": "tomorrow scheme color for gitbook",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "gitbook": "*"
   },
@@ -16,7 +16,7 @@
     "url": "https://github.com/mukiwu/gitbook-plugin-code_tomorrow_scheme/issues"
   },
   "gitHead": "",
-  "_id": "gitbook-plugin-code_tomorrow_scheme@0.0.1",
+  "_id": "gitbook-plugin-code_tomorrow_scheme@0.0.4",
   "scripts": {},
   "_shasum": "",
   "_from": "gitbook-plugin-code_tomorrow_scheme@*",
@@ -33,9 +33,9 @@
   ],
   "dist": {
     "shasum": "",
-    "tarball": ""
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-code_tomorrow_scheme/-/gitbook-plugin-code_tomorrow_scheme-0.0.4.tgz"
   },
   "directories": {},
-  "_resolved": "",
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-code_tomorrow_scheme/-/gitbook-plugin-code_tomorrow_scheme-0.0.4.tgz",
   "readme": "ERROR: No README data found!"
 }
