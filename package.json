@@ -1,0 +1,41 @@
+{
+  "name": "gitbook-plugin-code_tomorrow_scheme",
+  "description": "tomorrow scheme color for gitbook",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/mukiwu/gitbook-plugin-code_tomorrow_scheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukiwu/gitbook-plugin-code_tomorrow_scheme.git"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/mukiwu/gitbook-plugin-code_tomorrow_scheme/issues"
+  },
+  "gitHead": "",
+  "_id": "gitbook-plugin-code_tomorrow_scheme@0.0.1",
+  "scripts": {},
+  "_shasum": "",
+  "_from": "gitbook-plugin-code_tomorrow_scheme@*",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "MUKIwu",
+    "email": "mukispace@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "MUKIwu",
+      "email": "mukispace@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "",
+    "tarball": ""
+  },
+  "directories": {},
+  "_resolved": "",
+  "readme": "ERROR: No README data found!"
+}
