@@ -22,3 +22,7 @@ Setp3. build
 ```
 gitbook build ./
 ```
+
+## Sample
+
+![Sample for Tomorrow color scheme](code.png)
