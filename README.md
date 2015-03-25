@@ -1,5 +1,6 @@
 # Tomorrow color scheme for GitBook Code
 
+reference by: [GitBook Google Code Prettify Plugin](https://www.npmjs.com/package/gitbook-plugin-google_code_prettify)
 
 ## how to install
 
