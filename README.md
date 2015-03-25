@@ -25,4 +25,4 @@ gitbook build ./
 
 ## Sample
 
-![Sample for Tomorrow color scheme](code.png)
+![Sample for Tomorrow color scheme](https://raw.githubusercontent.com/mukiwu/gitbook-plugin-code_tomorrow_scheme/master/code.png)
